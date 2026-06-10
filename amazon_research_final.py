@@ -4,8 +4,8 @@ from datetime import datetime
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
-SERPAPI_KEY = "ce0c282ef5b9a4cc00f8b5a1e898d81febfe7091e622345dd36ef191d939365a"
-GOOGLE_SHEET_ID = "1U7nMmqZGPDCs5-G_msZyIyDR4eFi_QmRISA2fJir2Ck"
+SERPAPI_KEY = "your api key"
+GOOGLE_SHEET_ID = "your google sheet id "
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
 def search_products(category, min_price, max_price, min_reviews, min_rating):
