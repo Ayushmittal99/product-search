@@ -2,7 +2,7 @@
 
 ## Overview
 
-An AI-powered product research automation tool that helps users discover Amazon products based on custom criteria such as category, price range, ratings, and reviews.
+An AI-powered product research automation tool that helps users discover E-commerce products based on custom criteria such as category, price range, ratings, and reviews.
 
 The application fetches product data using SerpAPI, filters products according to user requirements, and stores results automatically in Google Sheets.
 
@@ -10,7 +10,7 @@ The application fetches product data using SerpAPI, filters products according t
 
 ## Features
 
-- Amazon product search automation
+- Product search automation
 - Price range filtering
 - Rating filtering
 - Review count filtering
