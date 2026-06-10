@@ -1,4 +1,4 @@
-# Amazon Product Research AI Agent
+# E-commerce Product Research AI Agent
 
 ## Overview
 
